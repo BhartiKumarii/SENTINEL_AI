@@ -225,20 +225,7 @@ Connect real data sources by replacing `generate_live_feed_item()` in `services/
 
 ## 📜 License
 
-MIT License — for educational and authorized security purposes only.
+for educational and authorized security purposes only.
 
-**⚠️ Important:** This platform is designed for legitimate security monitoring with proper authorization. Ensure compliance with applicable laws and regulations in your jurisdiction. Always obtain proper consent before monitoring communications.
-
----
-
-## 🙏 Credits
-
-Built with:
-- [Streamlit](https://streamlit.io) — Web application framework
-- [Plotly](https://plotly.com) — Interactive visualizations
-- [Claude AI](https://anthropic.com) — AI reasoning and analysis
-- [Rajdhani](https://fonts.google.com/specimen/Rajdhani) + [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono) fonts
-
----
 
 *SentinelAI — Smarter Defence Through Innovation* 🛡️
